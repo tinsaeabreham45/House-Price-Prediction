@@ -25,9 +25,3 @@ The dataset includes the following features:
 
 The dataset is stored in CSV format and loaded for processing during the project.
 
-## Installation
-
-To run this project locally:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
