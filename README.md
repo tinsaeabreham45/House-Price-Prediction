@@ -25,3 +25,15 @@ The dataset includes the following features:
 
 The dataset is stored in CSV format and loaded for processing during the project.
 
+## Results
+The model achieves reasonable accuracy on the test set linear model 52% accuracy and on the randomForest 92% this is very good , with visualizations showing the predicted vs. actual prices. The Mean Squared Error (MSE) is used as the primary evaluation metric.
+
+## Visualization
+Key plots include:
+**Data distribution histograms.**
+**Predicted vs. actual prices scatter plot.**
+
+
+
+
+
